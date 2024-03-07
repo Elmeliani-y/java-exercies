@@ -12,12 +12,12 @@ public class Main {
         System.out.println("enter second number : ");
         b = reader.nextByte() ;
         // first exercice
-        //c= a+b ;
-        //System.out.println("the result is : " + c);
+        c= a+b ;
+        System.out.println("the result is : " + c);
         //second exercice
-        //c = a ;
-        //a = b ;
-        //b = c ;
-        //System.out.println("switch case : a : " + a + "/" + "b : " + b  );
+        c = a ;
+        a = b ;
+        b = c ;
+        System.out.println("switch case : a : " + a + "/" + "b : " + b  );
         }
     }
