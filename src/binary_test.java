@@ -6,7 +6,6 @@ public class binary_test {
         String z ;
          x = a.hashCode() ;
         System.out.println(x);
-         Base64.getDecoder();
 
         }
 }
